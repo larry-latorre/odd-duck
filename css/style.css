@@ -1,3 +1,18 @@
+section{
+    text-align: center;
+}
 img{
-    width: 400px;
+    width: 360px;
+    height: 350px;
+    box-shadow: .5em .5em .5em .5em;
+    margin-right: 20px;
+}
+
+#results{
+    display: hidden;
+}
+
+#chartContainer{
+    width: 800px;
+    margin: auto;
 }
